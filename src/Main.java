@@ -5,7 +5,10 @@ public class Main {
         System.out.println("Hello Tin");
         System.out.println("treci sat predavanja");
         System.out.println("cetvrti sat predavanja");
-        
+        System.out.println("Hello Tin");
+        System.out.println("treci sat predavanja");
+        System.out.println("cetvrti sat predavanja");
+
 
 
 
