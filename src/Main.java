@@ -2,7 +2,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Tin Kramarairć");
+        System.out.println("Hello Tin");
+        System.out.println("Drugi sat predavanja");
 
 
     }
